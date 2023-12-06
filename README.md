@@ -1,17 +1,4 @@
-### Hi there 👋
-
-<!--
-**ProgrammingInBlood/ProgrammingInBlood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<h1 align="center">Hi 👋, I'm Eklavya Singh</h1>
+<h1 align="center">Hi 👋, I'm Eklavya Singh</h1>
 <h3 align="center">A Passionate Full Stacks Developer From India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><br/>
@@ -49,6 +36,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=ProgrammingInBlood&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProgrammingInBlood&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingInBlood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-- ⚡ Fun fact: ...
--->
